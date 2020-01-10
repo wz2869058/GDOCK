@@ -3,7 +3,7 @@
 #   Author: JK
 #=================================================
 
-name: Build G-DOCK
+name: Build G-DOCK1
 
 on: 
   release:
